@@ -15,8 +15,8 @@ Classifies handwritten digits (0–9) from the MNIST dataset using two ML approa
 
 ## Run directly in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dweep-Saha/mnist-digit-recognition/blob/main/Digits_recognition_KNN.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dweep-Saha/mnist-digit-recognition/blob/main/Digits_recognition_CNN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dweep-Saha/mnist-digit-recognition/blob/main/Digits_recognition_KNN.ipynb)(KNN link) KNN Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dweep-Saha/mnist-digit-recognition/blob/main/Digits_recognition_CNN.ipynb)(CNN link) CNN Notebook
 
 ---
 
